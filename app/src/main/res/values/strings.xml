@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EzyFoodyFinal</string>
+    <string name="home_text">What do you want to order?</string>
+    <string name="snack_title">Snacks</string>
+    <string name="snacklist_title">Snack List</string>
+    <string name="food_title">Foods</string>
+    <string name="foodlist_title">Food List</string>
+    <string name="drink_title">Drinks</string>
+    <string name="drinklist_title">Drink List</string>
+    <string name="myorder_title">My Order</string>
+    <string name="topup_title">Top Up</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
